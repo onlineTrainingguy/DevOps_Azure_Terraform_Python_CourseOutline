@@ -1,8 +1,10 @@
 # DevOps_Azure_Terraform_Python_CourseOutline
 
-Github links for this Training
+## Github links for this Training
 
 1. <a href=https://github.com/kmitsolution/Python> Python </a>
+
+## Weekwise Schedule
 
 ##### Week 1 ( 4 days Python 1 day git) 
 ##### Week 2 (1 day Git and Github,4 days Azure Fundamentals & Entraid)
